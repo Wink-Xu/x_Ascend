@@ -1,0 +1,1 @@
+The code is copied from  https://gitee.com/ascend/samples/tree/master
