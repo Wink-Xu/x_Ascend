@@ -14,5 +14,8 @@ refer to  https://blog.csdn.net/hello_yes112/article/details/107560186          
 * ATC  model transform                                                                  
 refer to https://support.huaweicloud.com/ti-atc-A500_3000_3010/altasatc_16_004.html   ----- 2020-12-09
 
-* succeed to compile the classification demo                                          ----- 2020-12-10
+* Succeed to compile the classification demo                                          ----- 2020-12-10
+
+* Succeed to run in Ai1                                                               ----- 2020-12-17
+------------  Finish the whole process in https://blog.csdn.net/hello_yes112/article/details/107560186
 

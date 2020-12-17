@@ -2,4 +2,5 @@
 *.onnx
 *.tar
 *.om
+*.gz
 sample_demo/classification/build

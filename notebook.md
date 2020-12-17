@@ -35,3 +35,8 @@ Other information, refer to https://support.huaweicloud.com/tg-Inference-cann/at
 
 ## Compile
 Pay attention to changing the path of inc and lib
+
+
+## Execute
+1. model transform, now use Mindstudio is okay to trans.
+2. acl.json
