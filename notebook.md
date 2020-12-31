@@ -40,3 +40,21 @@ Pay attention to changing the path of inc and lib
 ## Execute
 1. model transform, now use Mindstudio is okay to trans.
 2. acl.json
+
+
+##  libdnn_ascend  20.0.0
+
+1. Library Interface 
+   * int  aclRegisterModel(const char* model_path);
+   * int  aclUnregisterModel();
+   * int  aclForward(unsigned char **data_in, float **data_out);
+2. Code Composition
+   * dnn_ascend.h   ---  main interface
+   * model_instance.h  --- model execution
+   * model_manager.h   --- model manager
+Reference to the classification sample, abstract the interface for all the model.
+
+3. Include and lib
+   * opencv
+   * acl
+ 
